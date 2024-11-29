@@ -18,7 +18,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.4",
-        "appsero/client": "dev-develop"
+        "appsero/client": "^2.0.4"
     },
     "require-dev": {
         "wp-coding-standards/wpcs": "*",
